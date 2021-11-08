@@ -1,0 +1,23 @@
+footer{
+    background-color:rgba(2, 2, 14, 0.9);
+    color:white;
+}
+div > ul li a {
+    text-decoration:none;
+    color:white;
+    line-height:2;
+}
+.bold1{
+    font-weight: bold;
+}
+.leftborder{
+    border-left: 2px solid white;
+    position: absolute;
+    top:1070px;
+    height: 50px;
+    left: 68%;
+  margin-left: -3px;  
+}
+.lastfooter{
+    margin-top:20px
+}

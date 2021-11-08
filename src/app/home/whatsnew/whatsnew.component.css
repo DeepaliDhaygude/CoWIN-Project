@@ -1,0 +1,22 @@
+.black{
+    background-color: rgb(21, 6, 41);
+    
+}
+.myp{
+    color:white;
+    font-weight: bolder;
+    line-height:1.2;
+}
+.new1{
+    background-color: rgb(21, 6, 41);
+    color:white;
+    
+    
+}
+.coll > a{
+    text-decoration: none;
+    color:white; 
+}
+p-divider{
+    color:white;
+}

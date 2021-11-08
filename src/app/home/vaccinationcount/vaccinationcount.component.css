@@ -1,0 +1,39 @@
+.vaccinationcount{
+    background-color:papayawhip;        /*moccasin;lightgoldenrodyellow;  blanchedalmond */
+    padding-top: 30px;
+    padding-bottom:30px;
+}
+.img1{
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 8px;
+    padding:15px;
+}
+.img2{
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 8px;
+    padding:10px;
+}
+.img3{
+    background-color:papayawhip;
+
+}
+.count{
+    font-size:30px;
+    font-weight: bold;
+}
+.mytext{
+    font-size:18px;
+    font-weight: bold;
+}
+.mytext > p > a{
+    text-decoration: none;
+    font-size:18px;
+    font-weight: bold;
+}
+.viewmore > a{
+    text-decoration: none;
+    font-size:18px;
+    font-weight: bold;
+}
